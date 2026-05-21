@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Veeling"
+    given-names: "Bastiaan"
+  - family-names: "Linmans"
+    given-names: "Jeroen"
+  - family-names: "Winkels"
+    given-names: "Arno"
+title: "Hubs and Hyperspheres: Reducing Hubness and Improving Transductive Few-shot Learning with Hyperspherical Embeddings"
+url: "https://github.com/SFI-Visual-Intelligence/noHub"
+date-released: 2023-03-08
