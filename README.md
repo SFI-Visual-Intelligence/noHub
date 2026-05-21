@@ -1,3 +1,5 @@
+Paper: Hubs and Hyperspheres: Reducing Hubness and Improving Transductive Few-shot Learning with Hyperspherical Embeddings ([Link](https://api.nva.unit.no/publication/0198cc66ac0e-5ee657e7-5160-4998-968c-bd9b7b651543))
+
 # Hubs and Hyperspheres
 
 This repository contains the code for the paper _"Hubs and Hyperspheres: Reducing Hubness and Improving Transductive Few-shot Learning with Hyperspherical Embeddings"_, CVPR 2023.
